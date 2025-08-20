@@ -5,7 +5,7 @@ I am a Professional Engineer (P.Eng.) in the automation & infrastructure space, 
 I have an Bachelor's in Engineering from the University of Toronto, and am currently finishing my Master's in Computer Science from the Georgia Institute of Technology.
 
 ### Projects
-Here are my favorite personal projects (some repositories are private for academic reasons):
+Here are my favorite personal projects (some repositories are private 🔏 for academic reasons):
 | Project Title  | Tools     |
 | :-------- | :-------- |
 | 📈 [PaperTrading](https://chitony.pythonanywhere.com/login) | Python, Flask, SQL, JS, HTML, CSS |
