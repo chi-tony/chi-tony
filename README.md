@@ -1,6 +1,6 @@
 # Hey! Welcome to my GitHub 🙋🏻‍♂️
 
-I am a Professional Engineer (P.Eng.) in the automation & infrastructure space, with 5+ YOE.
+I am a software engineer (P.Eng.) working in the automation & infrastructure space, with 6+ YOE.
 
 I have a Bachelor's in Engineering from the University of Toronto, and am currently finishing my Master's in Computer Science from the Georgia Institute of Technology.
 
@@ -8,19 +8,19 @@ I have a Bachelor's in Engineering from the University of Toronto, and am curren
 
 Here are my favorite personal projects (some repositories are private for academic reasons):
 
-| Project Title | Tools |
-| :-------- | :-------- |
-| 📈 [PaperTrading](https://chitony.pythonanywhere.com/login) | Python, Flask, SQL, JS, HTML, CSS |
-| 🧹 [Personal Info Scrubber](https://github.com/chi-tony/personal-info-scrubber) | Python, Flask, Terraform, Azure, JS, HTML, CSS |
-| 🔏 Azure MapReduce | Go, Kubernetes, gRPC, Azure SDK, etcd |
-| 🔏 Network Functions Virtualization | Python, Docker, Ryu |
-| 🔏 Software Defined Networking | Python, Ryu |
-| 🔏 JobCompare | Android Studio, Java, SQL |
-| 🔏 MapReduce | C++, gRPC |
-| 🔏 Multithreaded Client-Server File Transfer | C |
-| 🔏 Classification & Regression ML Algorithms | Python, NumPy |
-| 🔏 VM CPU Scheduler & Memory Coordinator | C, libvirt, Azure |
-| 🔏 Cache & Proxy Server Shared Memory IPC | C, libcurl |
+| Project Title | Description | Tools |
+| :-------- | :-------- | :-------- |
+| 📈 [PaperTrading](https://chitony.pythonanywhere.com/login) | A Flask web application that allows users to paper trade US stocks while following the market, without using real money | Python, Flask, SQL, JS, HTML, CSS |
+| 🧹 [Personal Info Scrubber](https://github.com/chi-tony/personal-info-scrubber) | Globally distributed personal information (JSON) scrubber, deployed with Azure Functions, Front Door, and DNS | Python, Flask, Terraform, Azure, JS, HTML, CSS |
+| 🔏 Azure MapReduce | MapReduce framework for cloud deployment on AKS clusters. Includes master replication, worker heartbeats, and leader election (via etcd) | Go, Kubernetes, gRPC, Azure SDK, etcd |
+| 🔏 Network Functions Virtualization | Dynamic network function virtualization with adding firewalls and NAT Docker containers between internal-external host communications | Python, Docker, Ryu |
+| 🔏 Software Defined Networking | SDN controllers for dynamic packet routing between hosts, depending on topology information | Python, Ryu |
+| 🔏 JobCompare | Android application that allows users to store and compare job offers based on personal preferences | Android Studio, Java, SQL |
+| 🔏 MapReduce | Simplified MapReduce framework using gRPC calls with a multithreaded master | C++, gRPC |
+| 🔏 Multithreaded Client-Server File Transfer | Multithreaded server serving static files to a multithreaded client, based on a GetFile protocol | C, pthreads |
+| 🔏 Technical Indicator Strategy Machine Learning | Bag learner using specific technical indicators to generate buy/sell signals | Python, NumPy |
+| 🔏 VM CPU Scheduler & Memory Coordinator | vCPU scheduler and memory coordinator pair that dynamically manage resources assigned to each guest machine | C, libvirt, Azure |
+| 🔏 Cache & Proxy Server Shared Memory IPC | Simple proxy server and cache server, which communicate on shared memory to convert incoming GetFile requests into HTTP requests | C, libcurl |
 
 ## Contact
 
